@@ -1,0 +1,21 @@
+# Core libraries
+pip
+pandas
+numpy
+openpyxl
+
+# HTML & XML parsing
+beautifulsoup4
+soupsieve
+lxml
+et_xmlfile
+
+# Date & time handling
+python-dateutil
+pytz
+tzdata
+
+# Typing and compatibility
+typing_extensions
+six
+     
